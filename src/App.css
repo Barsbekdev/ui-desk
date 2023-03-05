@@ -1,0 +1,336 @@
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+#header {
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+    padding: 20px;
+}
+
+body {
+    background: #111827;
+    padding: 20px;
+}
+
+.Header-logo a:hover {
+    color: green;
+}
+
+.Header-logo a {
+    text-decoration: none;
+    color: white;
+    margin-left: 190px;
+}
+
+.Header-logo button:hover {
+    background: #111827;
+    color: green;
+}
+
+.Header-logo button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 12px 24px;
+
+    position: absolute;
+    width: 132px;
+    height: 42px;
+    left: 1173px;
+    top: 40px;
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+    border: none;
+}
+
+.Section1-logo img {
+    margin-left: 550px;
+}
+
+.Section1-logo h1 {
+    font-size: 40px;
+    color: blueviolet;
+    margin-top: -450px;
+}
+
+.Section1-logo p {
+    color: white
+}
+
+.Section1-logo button:hover {
+    background: #111827;
+    color: blue;
+}
+
+.Section1-logo button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 20px 40px;
+    border: none;
+    width: 135px;
+    height: 61px;
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+    border-radius: 6px;
+}
+
+.Section2-logo center {
+    color: white;
+    margin-top: 350px;
+}
+
+.box {
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 370px;
+    height: 336px;
+    left: 135px;
+    top: 1065px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+
+.box center {
+    margin-top: 50px;
+}
+
+.boxi {
+    box-sizing: border-box;
+    margin-left: 500px;
+    position: absolute;
+    width: 370px;
+    height: 336px;
+    left: 135px;
+    top: 1065px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+
+.boxi center {
+    margin-top: 50px;
+}
+
+.boxii {
+    box-sizing: border-box;
+    margin-left: 1000px;
+    position: absolute;
+    width: 370px;
+    height: 336px;
+    left: 135px;
+    top: 1065px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+
+.boxii center {
+    margin-top: 50px;
+}
+
+.bo {
+    box-sizing: border-box;
+    margin-top: 400px;
+    position: absolute;
+    width: 370px;
+    height: 336px;
+    left: 135px;
+    top: 1065px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+
+.bo center {
+    margin-top: 50px;
+}
+
+.ani {
+    box-sizing: border-box;
+    margin-left: 500px;
+    margin-top: 400px;
+    position: absolute;
+    width: 370px;
+    height: 336px;
+    left: 135px;
+    top: 1065px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+
+.ani center {
+    margin-top: 50px;
+}
+
+.many {
+    box-sizing: border-box;
+    margin-left: 1000px;
+    margin-top: 400px;
+    position: absolute;
+    width: 370px;
+    height: 336px;
+    left: 135px;
+    top: 1065px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+
+.many center {
+    margin-top: 50px;
+}
+
+.Section3-logo img {
+    margin-top: 900px;
+}
+
+.Section3-logo h1 {
+    color: white;
+    margin-left: 600px;
+    margin-top: -450px;
+}
+
+.Section3-logo button {
+    width: 99px;
+    height: 31px;
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+    border: none;
+    margin-left: 600px;
+}
+
+.Section3-logo button:hover {
+    background: blue;
+    color: #111827;
+}
+
+.Section3-logo p {
+    color: white;
+    margin-left: 600px;
+}
+
+.Section4-logo img {
+    margin-left: 600px;
+    margin-top: 200px;
+}
+
+.Section4-logo h1 {
+    color: white;
+    position: absolute;
+    margin-top: 380px;
+}
+
+.Section4-logo p {
+    color: white;
+    position: absolute;
+    margin-top: 500px;
+}
+
+.Section4-logo button {
+    width: 99px;
+    height: 31px;
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+    border-radius: 4px;
+    color: white;
+    position: absolute;
+    margin-top: 700px;
+}
+
+.Section5-logo center {
+    color: white;
+}
+
+.mix {
+    margin-top: 100px;
+    width: 270px;
+    height: 266px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+
+.Section5-logo img {
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+.Section5-logo h1 {
+    color: white;
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: -30px;
+}
+.Section5-logo p{
+    color: white;
+    margin-left: 50px;
+}
+
+.icon {
+    font-size: 20px;
+    color: #2563EB;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons {
+    margin-left: 20px;
+}
+.mi {
+    margin-top: -250px;
+    margin-left: 900px;
+    width: 270px;
+    height: 266px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+.m {left: 650px;
+    top: 3390px;
+    position: absolute;
+    width: 270px;
+    height: 266px;
+    background: linear-gradient(268.12deg, rgba(254, 254, 255, 0.032) -11.04%, rgba(255, 255, 255, 0.018) 104.89%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+}
+.menu{
+    box-sizing: border-box;
+    width: 1170px;
+    height: 295px;
+    background: linear-gradient(180deg, rgba(254, 254, 255, 0.0145) 0%, rgba(255, 255, 255, 0.02) 100%);
+    box-shadow: 0 22px 18px rgba(0, 0, 0, 0.05);
+    border-radius: 34px;
+    margin-top: 90px;
+}
+.Section5-logo input{
+    margin-left: 160px;
+    margin-top: 70px;
+    width: 860px;
+    height: 80px;
+    background: linear-gradient(180deg, rgba(254, 254, 255, 0.0348) 0%, rgba(255, 255, 255, 0.048) 100%);
+    box-shadow: 10px 24px 54px rgba(0, 0, 0, 0.07);
+    border-radius: 70px;
+    font-size: 35px;
+    color: aliceblue;
+}
+.Section5-logo button:hover{
+    background: brown;
+    color: black;
+}
+.Section5-logo button{
+    position: absolute;
+    width: 196px;
+    height: 60px;
+    left: 1030px;
+    top: 3886px;
+    background: linear-gradient(90.35deg, #2563EB 0.36%, #D946EF 201.02%);
+    opacity: 0.9;
+    border-radius: 70px;
+}
+.svg{
+    margin-left: -200px;
+    margin-top: 90px;
+}
